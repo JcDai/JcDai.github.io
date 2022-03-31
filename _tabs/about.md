@@ -8,7 +8,7 @@ I am a master student at [Courant Institute of Mathematical Sciences, New York U
 
 # Education
 
-+ **Ph.D. Candidate in Computer Science** *2022-present*   
++ **Ph.D. Student in Computer Science** *2022-present*   
 > *Courant Institute of Mathematical Sciences, New York University* 
 
 + **M.Sc in Computer Science** *2020-2022*
