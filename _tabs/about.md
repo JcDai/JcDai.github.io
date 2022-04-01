@@ -14,7 +14,7 @@ I am a master student at [Courant Institute of Mathematical Sciences, New York U
 + **M.Sc in Computer Science** *2020-2022*
 > *Courant Institute of Mathematical Sciences, New York University* 
 
-+ **B.Eeng in Computer Science** *2016-2020*
++ **B.Eng in Computer Science** *2016-2020*
 > *Department of Computer Science & Engineering, SEIEE, Shanghai Jiao Tong University*
 
 
