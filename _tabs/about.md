@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-I am a master's student at [Courant Institute of Mathematical Sciences, New York University](https://cs.nyu.edu/home/index.html), and an incoming Ph.D. student at the same department where I will start working with Professor [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) in Fall 2022. Prior to NYU, I got my Bachelor's degree at Shanghai Jiao Tong University, majoring in Computer Science. My research interests include Computer Graphics, Geometirc Processing and Similation.
+I am a master's student at [Courant Institute of Mathematical Sciences, New York University](https://cs.nyu.edu/home/index.html), and an incoming Ph.D. student at the same department where I will start working with Professor [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) in Fall 2022. Prior to NYU, I got my Bachelor's degree at Shanghai Jiao Tong University, majoring in Computer Science. My research interests include Computer Graphics, Geometric Processing and Simulation.
 
 # Education
 
