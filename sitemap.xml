@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://jcdai.github.io/posts/Hello-World!/</loc>
+<lastmod>2022-03-30T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/about/</loc>
+<lastmod>2022-04-06T23:29:55-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/publications/</loc>
+<lastmod>2022-04-06T23:29:55-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/archives/</loc>
+<lastmod>2022-04-06T23:29:55-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/categories/</loc>
+<lastmod>2022-04-06T23:29:55-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/tags/</loc>
+<lastmod>2022-04-06T23:29:55-04:00</lastmod>
+</url>
+<url>
+<loc>https://jcdai.github.io/</loc>
+</url>
+<url>
+<loc>https://jcdai.github.io/tags/update/</loc>
+</url>
+<url>
+<loc>https://jcdai.github.io/categories/other/</loc>
+</url>
+</urlset>
